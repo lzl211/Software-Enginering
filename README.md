@@ -2,10 +2,6 @@
 
 Group7
 
-name:Tianyu Liu
-e-mail:bv23164@bristol.ac.uk
-username: bv23164
+Tianyu Liu, bv23164@bristol.ac.uk, bv23164
 
-name: Lea Lewis
-e-mail:px23592@bristol.ac.uk
-username: le2310al
+Lea Lewis, px23592@bristol.ac.uk, le2310al
